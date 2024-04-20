@@ -1,0 +1,1 @@
+{"img_width": 128, "img_height": 128, "input_img_dir": "train/images", "input_mask_dir": "train/masks", "device": "cuda", "gpu_index": 0, "sampled_index": -1, "in_channels": 3, "out_channels": 2, "models": [{"type": "unet", "file": "unet.pth"}, {"type": "unet_attn", "file": "unet_attn.pth"}, {"type": "unet_attn_ghost", "file": "unet_attn_ghost.pth"}]}
